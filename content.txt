@@ -1,0 +1,23 @@
+    Colors –
+Background: #E32910
+Font-White: #EAF2F1
+
+Typography –
+JetBrains Mono:         https://fonts.google.com/specimen/JetBrains+Mono
+
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
+
+Roboto Mono:  https://fonts.google.com/specimen/Roboto+Mono
+
+Design work –
+https://www.figma.com/file/tYHIDNn2IAfYQ2LA84g5MS/Tropicali
+
+Font size:
+Body 24px, line height 1.5
+
+Content –
+
+
+Pinch provides all-in-one data solutions for small businesses, agencies and in-house marketing teams to inform planning, communications and marketing strategies. We're excited to help your business grow strategically and confidently by making data-driven decisions. We're coming soon! 
+
+Site Launching March
